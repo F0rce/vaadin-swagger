@@ -6,7 +6,7 @@
 <a href="https://vaadin.com/directory/component/swagger"><img alt="Vaadin Directory" src="https://img.shields.io/vaadin-directory/stars/swagger?color=6D9A00"></a>
 <a href="https://preview.f0rce.de/vaadin-swagger/" target="__blank"><img src="https://img.shields.io/static/v1?label=&message=Demo&color=6D9A00" alt="Demo"></a>
 <br>
-<a href="https://github.com/f0rcer/vaadin-swagger" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/f0rce/vaadin-swagger?style=social"></a>
+<a href="https://github.com/f0rce/vaadin-swagger" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/f0rce/vaadin-swagger?style=social"></a>
 </p>
 
 
