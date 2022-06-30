@@ -18,10 +18,10 @@ Easily visualize and interact with your REST API in your Vaadin project.
 <table>
 <tbody>
 <td align="center">
-<img width="5000" height="0" /><br>
+<img width="2000" height="0" /><br>
 Status: <b>Public Beta 🎉</b><br>
 <sub><a href="https://github.com/sponsors/f0rce">Sponsor Program 💖</a><br> Follow me <a href="https://twitter.com/F0rceDev">@F0rceDev</a> 🐦</sub><br>
-<img width="5000" height="0" />
+<img width="2000" height="0" /><br>
 </td>
 </tbody>
 </table>
