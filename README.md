@@ -46,7 +46,7 @@ Install the component using [Vaadin Directory](https://vaadin.com/directory/comp
 
 ## Demo
 
-[preview.f0rce.de/vaadin-swagger](https://preview.f0rce.de/vaadin-swagger)
+[preview.f0rce.de/swagger](https://preview.f0rce.de/swagger)
 
 
 ## Example Usage 
