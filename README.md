@@ -44,11 +44,6 @@ Currently there is limited to none further functionality / customization besides
 Install the component using [Vaadin Directory](https://vaadin.com/directory/component/swagger) or by adding the `swagger-*.jar` from the [latest release](https://github.com/F0rce/vaadin-swagger/releases/latest) to your project.
 
 
-## Demo
-
-[preview.f0rce.de/swagger](https://preview.f0rce.de/swagger)
-
-
 ## Example Usage 
 
 <details>
